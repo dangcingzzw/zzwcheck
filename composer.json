@@ -17,8 +17,8 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-    "psr-4": {
-        "Zzwcheck\\": "src/"
+        "psr-4": {
+            "Zzwcheck\\": "src/"
+        }
     }
-
 }
